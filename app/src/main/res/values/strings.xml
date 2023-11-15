@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Warm_Eva2</string>
+    <string name="warm">Warm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

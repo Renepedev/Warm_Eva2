@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:title="Medir"
+      android:icon="@drawable/baseline_fireplace_24"
+      android:id="@+id/nav_medir"/>
+
+
+
+    <item
+        android:title="Dispositivos"
+        android:icon="@drawable/baseline_add_to_photos_24"
+        android:id="@+id/nav_dispositivos"/>
+
+
+    <item
+        android:title="Salir"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:id="@+id/nav_salir"/>
+
+
+
+
+
+
+
+
+
+
+</menu>
